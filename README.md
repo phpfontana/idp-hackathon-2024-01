@@ -13,7 +13,7 @@ Durante os dias 24 e 25 de maio de 2024 diversas pessoas de vários cursos da fa
 
 O tema desta edição era: "Transformação Digital na Educação", podendo escolher qualquer problemática dentro do tema, sendo esta a abordada: "Alunos com deficiência auditiva e sua dificuldade de formação no ensino superior". A equipe GPT-H decidiu implementar uma solução envolvendo inteligência artificial para que pudesse auxiliar as pessoas com essa deficiência em seu âmbito acadêmico.
 
-O projeto se consiste em uma aplicação que irá captar o áudio do professor que está dando aula, gerar legendas automáticas e deixar tudo isso salvo em um pdf para um grande material de estudo. Foi pensado e implementado também um avatar que auxiliaria pessoas que não conseguissem ler tão bem na língua portuguesa, sendo o mesmo um tradutor de português para libras.
+O projeto se consiste em uma aplicação que irá captar o áudio do professor que está dando aula, gerar legendas automáticas e deixar tudo isso salvo em um pdf para um grande material de estudo. Foi pensado e implementado também um avatar que irá auxiliar pessoas que não conseguissem ler tão bem na língua portuguesa, sendo o mesmo um tradutor de português para libras.
 
 Desta forma nossa equipe se dividiu em algumas funções:
 
