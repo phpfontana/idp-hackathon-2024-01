@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal PCD</title>
+    <style>
+        /* CSS aqui */
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#"></a></li>
+                <li><a href="#"></a></li>
+                <!-- Repita as linhas <li> quantas vezes for necessário -->
+                <li><a href="https://www.idp.edu.br/aluno/" target="_blank">Voltar</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="intro">
+            <h1>Portal Speech To Libras</h1>
+            <h1>Bem-vindo ao Portal do Aluno</h1>
+        </section>
+        <section class="links">
+            <div class="link-item">
+                <a href="https://ambientevirtual.idp.edu.br" target="_blank">Gravação da Aula</a>
+            </div>
+            <div class="link-item">
+                <a href="https://portalrm.idp.edu.br" target="_blank">Resumos da Aula</a>
+            </div>
+            <div class="link-item">
+                <a href="https://portalrm.idp.edu.br" target="_blank">Conteúdos</a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Minha Página</p>
+        <div vw class="enabled">
+            <div vw-access-button class="active"></div>
+            <div vw-plugin-wrapper>
+                <div class="vw-plugin-top-wrapper"></div>
+            </div>
+        </div>
+        <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+        <script>
+            new window.VLibras.Widget('https://vlibras.gov.br/app');
+        </script>
+    </footer>
+</body>
+</html>

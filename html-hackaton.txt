@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IDP Aluno</title>
+    <style>
+        /* CSS aqui */
+    </style>
+</head>
+<body>
+    <header>   
+        <div class="logo">
+            <img src="logo.png" alt="Logo" id="logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#" class="tooltip">Home<span class="tooltiptext">Mais Informações</span></a></li>
+                <li><a href="#" class="tooltip">Sobre<span class="tooltiptext">Mais Informações</span></a></li>
+                <li><a href="#" class="tooltip">Serviços<span class="tooltiptext">Mais Informações</span></a></li>
+                <li><a href="#" class="tooltip">Contatos<span class="tooltiptext">Mais Informações</span></a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h1>Bem-vindo ao Portal do Aluno</h1>
+        </section>    
+
+        <section class="links">
+            <div class="link-item">
+                <a href="https://ambientevirtual.idp.edu.br" target="_blank">Aulas Online</a>
+            </div>
+            <div class="link-item">
+                <a href="https://portalrm.idp.edu.br" target="_blank">Portal do Aluno</a>
+            </div>
+            <div class="link-item">
+                <a href="https://c487c4e9-23a3-4cc3-aea5-e03ca48953f3-00-14ag432mci2ex.spock.replit.dev/" target="_blank">Portal STL</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Todos Direitos Reservados</p>
+    </footer>
+
+    <script>
+        // JavaScript aqui
+    </script>
+</body>
+</html>
+
+

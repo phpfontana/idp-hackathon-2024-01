@@ -1,0 +1,10 @@
+// Inline JavaScript
+document.addEventListener('DOMContentLoaded', () => {
+    const links = document.querySelectorAll('.link-item a');
+
+    links.forEach(link => {
+        link.addEventListener('click', (event) => {
+            alert('You clicked a link!');
+        });
+    });
+});
